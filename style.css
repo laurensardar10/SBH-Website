@@ -1,0 +1,78 @@
+#top {
+    text-align: center;
+}
+
+li {
+      border:solid black 3px;
+    }
+
+ul {
+     list-style: none;
+     line-height: 2em;
+    }
+    #clothing {
+    text-align: center;
+}
+
+#Hunger{
+    text-align: center;
+}
+
+.header{
+    font-family: cursive;
+}
+
+h1 { color: red;
+}
+
+li { color:navy;
+}
+
+p { font-size: 24px
+}
+
+#grow:hover
+{
+        -webkit-transform: scale(1.3);
+        -ms-transform: scale(1.3);
+        transform: scale(1.3);
+}
+
+li { font-size: 20px
+
+    
+}
+
+li { font-family:fantasy
+
+    
+}
+
+p {
+    border: 1px solid black;
+    outline: 5px dotted black;
+}
+
+ h1 {  font-size: : 40px
+  
+     
+ }
+
+p { font-family: cursive
+
+    
+}
+
+li { background-color: lightblue;
+
+}
+
+
+
+
+
+
+
+
+
+
